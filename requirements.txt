@@ -2,4 +2,4 @@ discord.py
 requests
 aiohttp
 PyNaCl
-‎python-dotenv
+‎dotenv
