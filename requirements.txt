@@ -1,5 +1,2 @@
 discord.py
-requests
-aiohttp
-PyNaCl
-‎dotenv
+‎python-dotenv
