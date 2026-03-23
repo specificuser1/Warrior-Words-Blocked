@@ -41,7 +41,8 @@ activities = [
     "POWERED BY NOOB",
     "SAFE & SECURE",
     "WARRIOR ON TOP",
-    "SERVER NOT ACTIVE"
+    "LANTENCY 10ms",
+    ".............",
     "www.warriorcheat.store"
 ]
 
